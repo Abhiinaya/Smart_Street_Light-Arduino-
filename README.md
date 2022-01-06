@@ -1,2 +1,2 @@
 # Smart_Street_Light-Arduino-
-A very simple DIY project using Arduino (Online Simulator- TinkerCad), LDR and Bulb/LED. With the help of this project we can learn the important and basic functions of components used here. 
+A very simple DIY project using Arduino (Online Simulator- TinkerCad), LDR and Bulb/LED. With the help of this project we can learn the important and basic functions of components used here. Smart street lights are no more a myth. When we are capable of designing circuits at home and interfacing them with software to control their functions, on a larger scale there are developments happening that can make our lives better and decrease the use of non-renewable resources that we use daily.
